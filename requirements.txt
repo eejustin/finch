@@ -1,0 +1,6 @@
+# requirements.txt
+jsonlines
+openai
+pandas
+scikit-learn
+joblib
